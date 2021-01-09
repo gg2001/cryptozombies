@@ -1,10 +1,10 @@
 # CryptoZombies
 
-CryptoZombies smart contracts setup in a truffle project.
+The smart contracts from the [CryptoZombies](https://cryptozombies.io/) tutorial setup in a [Truffle](https://www.trufflesuite.com/truffle) project. I've updated some of the contracts to the latest Solidity syntax.
 
 ## Installation
 
-Make sure truffle is globally installed. You will also need an Ethereum mnemonic key funded with ETH and an Infura API key.
+Make sure [Truffle](https://www.trufflesuite.com/truffle) is globally installed (`npm install truffle -g`). You will also need an Ethereum mnemonic key funded with some ETH and an [Infura](https://infura.io/) API key.
 
 Put the Infura API key in `.env` like this:
 
@@ -25,6 +25,8 @@ yarn
 ```
 
 To install all the Node modules.
+
+## Usage
 
 `truffle compile` compiles the contracts.
 
