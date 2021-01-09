@@ -28,6 +28,11 @@ module.exports = {
       },
       // Network id is 4 for Rinkeby
       network_id: 4
+    },
+    development: {
+      host: "localhost",
+      port: 7545,
+      network_id: "*"
     }
   }
 };
