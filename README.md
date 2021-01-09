@@ -1,6 +1,6 @@
 # CryptoZombies in a Truffle project
 
-The smart contracts from the [CryptoZombies](https://cryptozombies.io/) tutorial setup in a [Truffle](https://www.trufflesuite.com/truffle) project. I've updated some of the contracts to the latest Solidity syntax.
+The contracts from the [CryptoZombies](https://cryptozombies.io/) tutorial setup in a [Truffle](https://www.trufflesuite.com/truffle) project. I've updated some of the contracts to the latest Solidity syntax.
 
 ## Installation
 
