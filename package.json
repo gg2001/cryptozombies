@@ -1,0 +1,12 @@
+{
+  "name": "cryptozombies",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "truffle": "^5.1.61",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
